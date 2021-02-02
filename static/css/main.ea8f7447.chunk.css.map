@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/contact/Contact.css"],"names":[],"mappings":"AAAA,EACE,cACF,CAEA,aACE,WAAY,CACZ,SACF","file":"main.ea8f7447.chunk.css","sourcesContent":["i {\r\n  cursor: pointer;\r\n}\r\n\r\n.float-right {\r\n  float: right;\r\n  color: red;\r\n}\r\n"]}
